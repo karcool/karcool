@@ -1,5 +1,26 @@
-<h1 align="center">Hi 👋, I'm Sanskar Khanna</h1>
-<h3 align="center">A Web Developer, DevOps Engineer, Machine Learning Enthusiast and Open Source Developer🚀 from India.</h3>
+<h2>About me </h2>
+
+<ul>
+  <li><b>👤 Name: </b> Sanskar Khanna</li>
+  <li><b>😄 Pronouns:</b>  He/Him</li>
+  <li><b>📍 Location:</b> Bengaluru ɪɴ</li>
+  <li><b>💼 Job: </b>DevOps Engineer </li>
+  <li><b>📣 Languages:</b> English & Hindi</li>
+</ul>
+
+
+
+<p> I am Sanskar Khanna (<i>aka Karcool</i>) a Software Engineer with 2+ years of experience optimizing software lifecycles, implementing CI/CD, automating, using
+Docker/Kubernetes, cloud platforms (AWS/Azure), configuration management (Ansible/Puppet), and monitoring. I am a dedicated
+team player, aiming to drive innovation and efficiency. I'm passionate about learning new tech and building new things that could change the way we live.</p> 
+
+<h2> I'm currently ...</h2>
+
+- 🔭 coding automation projects & launching my personal website.
+- 🌱 learning Docker, Kubernetes & Shell scripting (DKSs is SO COOL!)
+- 📚 Reading: **"Russian Literature"**
+- 🎮 playing CSGO 🔫, Valorant 💣 and Chess ♟️
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karcool&label=Profile%20views&color=0e75b6&style=flat" alt="karcool" /> </p>
 
